@@ -1,0 +1,19 @@
+
+# Claude Code agent worktrees and local settings: never commit them
+.claude/worktrees/
+.claude/settings.local.json
+
+# Cultivation kit planning + AI files: kept local, never published (repo is public)
+/AGENTS.md
+/CLAUDE.md
+/GEMINI.md
+/STATUS.md
+/SPEC.md
+/PLAN.md
+/TASKS.md
+/DESIGN-DOC.template.md
+/AI_ENTRYPOINT.template.md
+/setup-project.sh
+/docs/
+/.claude/
+/Project Approach Document - DeltaXI Analytics Platform.pdf
